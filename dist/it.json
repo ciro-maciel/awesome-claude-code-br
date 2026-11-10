@@ -1,0 +1,447 @@
+{
+  "slug": "awesome-claude-code-br",
+  "language": "it",
+  "title": "Awesome Claude Code BR",
+  "description": "Claude Code in portoghese: documentazione, corsi, skill, regole, plugin e server MCP realizzati in Brasile.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "Ufficiale",
+      "items": [
+        {
+          "name": "Documentação do Claude Code em português",
+          "url": "https://code.claude.com/docs/pt/overview",
+          "link": "https://go.mymarketing.click/ccbr-documentacao-do-claude-code-em-port",
+          "description": "La documentazione ufficiale, tradotta.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude Code no GitHub",
+          "url": "https://github.com/anthropics/claude-code",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-no-github",
+          "description": "Il repository ufficiale, con le issue e le note di rilascio.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Skills da Anthropic",
+          "url": "https://github.com/anthropics/skills",
+          "link": "https://go.mymarketing.click/ccbr-skills-da-anthropic",
+          "description": "Le skill di esempio e per documenti pubblicate da Anthropic.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Plugins oficiais",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "link": "https://go.mymarketing.click/ccbr-plugins-oficiais",
+          "description": "La directory di plugin gestita da Anthropic.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude Code Action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-action",
+          "description": "Claude Code in GitHub Actions, per pull request e issue.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Anthropic Academy",
+          "url": "https://academy.claude.com/",
+          "link": "https://go.mymarketing.click/ccbr-anthropic-academy",
+          "description": "Corsi gratuiti di Anthropic, anche su Claude Code.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "aprender",
+      "title": "Imparare in portoghese",
+      "items": [
+        {
+          "name": "claude-course",
+          "url": "https://github.com/rafael-agilize/claude-course",
+          "link": "https://go.mymarketing.click/ccbr-claude-course",
+          "description": "Corso interattivo di Claude Code in portoghese, con lezioni pratiche.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-melhores-skills",
+          "url": "https://github.com/aliborhothamud/claude-melhores-skills",
+          "link": "https://go.mymarketing.click/ccbr-claude-melhores-skills",
+          "description": "Selezione in portoghese delle migliori skill, con cosa installare e perché.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Spec-Driven Development",
+          "url": "https://github.com/felipefontoura/spec-driven-development-book",
+          "link": "https://go.mymarketing.click/ccbr-spec-driven-development",
+          "description": "Libro aperto sulla costruzione di software con agenti IA a partire da specifiche.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Construir com IA",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/ccbr-construir-com-ia",
+          "description": "Il volume 10 della serie O Novo Básico: dal prototipo al sistema online con login, dati e fatturazione.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "regras-e-stacks",
+      "title": "Regole, stack e memoria",
+      "items": [
+        {
+          "name": "CCM Stack",
+          "url": "https://github.com/ciro-maciel/ccm-stack",
+          "link": "https://go.mymarketing.click/ccbr-ccm-stack",
+          "description": "Plugin con principi, hook che bloccano l'errore noto, skill e voce, configurabile per persona.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Regras para o CLAUDE.md",
+          "url": "https://ciromaciel.click/rules",
+          "link": "https://go.mymarketing.click/ccbr-regras-para-o-claude-md",
+          "description": "Regole nate da un errore, pronte per il CLAUDE.md del tuo agente.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Agentes com cargo",
+          "url": "https://ciromaciel.click/agents",
+          "link": "https://go.mymarketing.click/ccbr-agentes-com-cargo",
+          "description": "Agenti con ruoli, pronti da inserire nel tuo progetto.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pedidos prontos",
+          "url": "https://ciromaciel.click/prompts",
+          "link": "https://go.mymarketing.click/ccbr-pedidos-prontos",
+          "description": "Prompt pronti da incollare nell'IA, ognuno con il relativo test.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-code-memory-setup",
+          "url": "https://github.com/lucasrosati/claude-code-memory-setup",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-memory-setup",
+          "description": "Memoria persistente in Claude Code con Obsidian e Graphify, per consumare meno token per sessione.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "cerebro-inevita",
+          "url": "https://github.com/gabrielzucco/cerebro-inevita",
+          "link": "https://go.mymarketing.click/ccbr-cerebro-inevita",
+          "description": "Secondo cervello aziendale local-first, che gira nell'agente che già usi.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "obsidian-master-kit",
+          "url": "https://github.com/melgarafael/obsidian-master-kit",
+          "link": "https://go.mymarketing.click/ccbr-obsidian-master-kit",
+          "description": "Skill che trasformano una cartella vuota in un vault Obsidian organizzato.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "direito",
+      "title": "Skill per il diritto",
+      "items": [
+        {
+          "name": "brasil-legal-skills",
+          "url": "https://github.com/AlissonSantos1/brasil-legal-skills",
+          "link": "https://go.mymarketing.click/ccbr-brasil-legal-skills",
+          "description": "IRPF guidato, risoluzione del contratto CLT, CLT o PJ, Simples Nacional e pensione.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "jusmanizer",
+          "url": "https://github.com/brunoflma/jusmanizer",
+          "link": "https://go.mymarketing.click/ccbr-jusmanizer",
+          "description": "Revisione dello stile giuridico in portoghese, con 33 regole ed esempi.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "leis-mcp",
+          "url": "https://github.com/mazulo/leis-mcp",
+          "link": "https://go.mymarketing.click/ccbr-leis-mcp",
+          "description": "Server MCP per cercare e citare la legislazione brasiliana.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "skills-datajud-djen",
+          "url": "https://github.com/rvsanches/skills-datajud-djen",
+          "link": "https://go.mymarketing.click/ccbr-skills-datajud-djen",
+          "description": "Skill sulle API pubbliche di CNJ, DataJud e DJEN.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "labdados-skills",
+          "url": "https://github.com/lab-dados/labdados-skills",
+          "link": "https://go.mymarketing.click/ccbr-labdados-skills",
+          "description": "Marketplace di skill per la ricerca empirica sul diritto in Brasile.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "escrita-e-pesquisa",
+      "title": "Scrittura e ricerca",
+      "items": [
+        {
+          "name": "pesquisador-br-skill",
+          "url": "https://github.com/DevAlissu/pesquisador-br-skill",
+          "link": "https://go.mymarketing.click/ccbr-pesquisador-br-skill",
+          "description": "Ricerca accademica con ABNT, Qualis CAPES, Lattes, SciELO e BDTD.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "portugues-tecnico-controlado",
+          "url": "https://github.com/kayquer/portugues-tecnico-controlado",
+          "link": "https://go.mymarketing.click/ccbr-portugues-tecnico-controlado",
+          "description": "Linguaggio controllato in portoghese del Brasile, ispirato ad ASD-STE100.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "marketing-copy-conteudo",
+          "url": "https://github.com/ricneves-ai/marketing-copy-conteudo",
+          "link": "https://go.mymarketing.click/ccbr-marketing-copy-conteudo",
+          "description": "153 skill di marketing, copy e contenuti in portoghese.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "video-e-design",
+      "title": "Video, motion e siti",
+      "items": [
+        {
+          "name": "ai-motion-library",
+          "url": "https://github.com/apenasdouglas/ai-motion-library",
+          "link": "https://go.mymarketing.click/ccbr-ai-motion-library",
+          "description": "24 effetti di animazione con il nome in portoghese e il termine da chiedere all'IA.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-video",
+          "url": "https://github.com/Felpborges/claude-video",
+          "link": "https://go.mymarketing.click/ccbr-claude-video",
+          "description": "Motion graphics in Claude Code, in portoghese.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pipeline-de-sites",
+          "url": "https://github.com/Felpborges/pipeline-de-sites",
+          "link": "https://go.mymarketing.click/ccbr-pipeline-de-sites",
+          "description": "Skill che generano e applicano le immagini e i video di un sito.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "editing-gameplay-montages",
+          "url": "https://github.com/gustavomenani/editing-gameplay-montages",
+          "link": "https://go.mymarketing.click/ccbr-editing-gameplay-montages",
+          "description": "Trasforma clip di gioco e una canzone in un video montato a ritmo di musica.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "Strumenti di contorno",
+      "items": [
+        {
+          "name": "claudept2en",
+          "url": "https://github.com/Senhordim/claudept2en",
+          "link": "https://go.mymarketing.click/ccbr-claudept2en",
+          "description": "Estensione di VS Code che traduce in inglese le richieste in portoghese digitate in Claude Code.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sankhya Ajuda MCP",
+          "url": "https://github.com/DevSkillsIT/Skills-MCP-Sankhya-Ajuda",
+          "link": "https://go.mymarketing.click/ccbr-sankhya-ajuda-mcp",
+          "description": "Server MCP per le basi di aiuto pubbliche di ERP Sankhya.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "Altre liste",
+      "items": [
+        {
+          "name": "awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "link": "https://go.mymarketing.click/ccbr-awesome-claude-code",
+          "description": "La lista mondiale di comandi, file e flussi per Claude Code, in inglese.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome MCP Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+          "link": "https://go.mymarketing.click/ccbr-awesome-mcp-brasil",
+          "description": "Server MCP per servizi brasiliani.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

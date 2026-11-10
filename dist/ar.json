@@ -1,0 +1,447 @@
+{
+  "slug": "awesome-claude-code-br",
+  "language": "ar",
+  "title": "Awesome Claude Code BR",
+  "description": "Claude Code بالبرتغالية: توثيق، دورات، مهارات (skills)، قواعد، إضافات (plugins) وخوادم MCP من صنع البرازيل.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "رسمي",
+      "items": [
+        {
+          "name": "Documentação do Claude Code em português",
+          "url": "https://code.claude.com/docs/pt/overview",
+          "link": "https://go.mymarketing.click/ccbr-documentacao-do-claude-code-em-port",
+          "description": "التوثيق الرسمي، مترجم.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude Code no GitHub",
+          "url": "https://github.com/anthropics/claude-code",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-no-github",
+          "description": "المستودع الرسمي، مع المشكلات وملاحظات الإصدار.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Skills da Anthropic",
+          "url": "https://github.com/anthropics/skills",
+          "link": "https://go.mymarketing.click/ccbr-skills-da-anthropic",
+          "description": "نماذج المهارات للأمثلة والمستندات، المنشورة من Anthropic.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Plugins oficiais",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "link": "https://go.mymarketing.click/ccbr-plugins-oficiais",
+          "description": "دليل الإضافات (plugins) الذي تديره Anthropic.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude Code Action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-action",
+          "description": "Claude Code في GitHub Actions، لطلبات السحب والمشكلات.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Anthropic Academy",
+          "url": "https://academy.claude.com/",
+          "link": "https://go.mymarketing.click/ccbr-anthropic-academy",
+          "description": "دورات مجانية من Anthropic، بما فيها دورات Claude Code.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "aprender",
+      "title": "التعلّم بالبرتغالية",
+      "items": [
+        {
+          "name": "claude-course",
+          "url": "https://github.com/rafael-agilize/claude-course",
+          "link": "https://go.mymarketing.click/ccbr-claude-course",
+          "description": "دورة تفاعلية في Claude Code بالبرتغالية، مع دروس عملية.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-melhores-skills",
+          "url": "https://github.com/aliborhothamud/claude-melhores-skills",
+          "link": "https://go.mymarketing.click/ccbr-claude-melhores-skills",
+          "description": "قائمة منتقاة بالبرتغالية لأفضل المهارات، مع ما يُثبَّت ولماذا.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Spec-Driven Development",
+          "url": "https://github.com/felipefontoura/spec-driven-development-book",
+          "link": "https://go.mymarketing.click/ccbr-spec-driven-development",
+          "description": "كتاب مفتوح عن بناء البرمجيات مع وكلاء الذكاء الاصطناعي انطلاقاً من المواصفات.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Construir com IA",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/ccbr-construir-com-ia",
+          "description": "الجزء 10 من سلسلة O Novo Básico: من النموذج الأولي إلى نظام يعمل مع تسجيل الدخول والبيانات والفوترة.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "regras-e-stacks",
+      "title": "القواعد والمكدسات والذاكرة",
+      "items": [
+        {
+          "name": "CCM Stack",
+          "url": "https://github.com/ciro-maciel/ccm-stack",
+          "link": "https://go.mymarketing.click/ccbr-ccm-stack",
+          "description": "إضافة فيها مبادئ، وhooks ترفض الخطأ المعروف، ومهارات وصوت، قابلة للتهيئة لكل شخص.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Regras para o CLAUDE.md",
+          "url": "https://ciromaciel.click/rules",
+          "link": "https://go.mymarketing.click/ccbr-regras-para-o-claude-md",
+          "description": "قواعد وُلدت من خطأ، جاهزة لملف CLAUDE.md الخاص بوكيلك.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Agentes com cargo",
+          "url": "https://ciromaciel.click/agents",
+          "link": "https://go.mymarketing.click/ccbr-agentes-com-cargo",
+          "description": "وكلاء بمسميات وظيفية، جاهزون لإضافتهم إلى مشروعك.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pedidos prontos",
+          "url": "https://ciromaciel.click/prompts",
+          "link": "https://go.mymarketing.click/ccbr-pedidos-prontos",
+          "description": "أوامر جاهزة للصقها في الذكاء الاصطناعي، مع اختبار بجانب كل واحد.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-code-memory-setup",
+          "url": "https://github.com/lucasrosati/claude-code-memory-setup",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-memory-setup",
+          "description": "ذاكرة دائمة في Claude Code مع Obsidian وGraphify، لاستهلاك توكنات أقل في كل جلسة.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "cerebro-inevita",
+          "url": "https://github.com/gabrielzucco/cerebro-inevita",
+          "link": "https://go.mymarketing.click/ccbr-cerebro-inevita",
+          "description": "مساعد شخصي لإدارة الأعمال يعمل محلياً، ويعمل داخل الوكيل الذي تستخدمه بالفعل.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "obsidian-master-kit",
+          "url": "https://github.com/melgarafael/obsidian-master-kit",
+          "link": "https://go.mymarketing.click/ccbr-obsidian-master-kit",
+          "description": "مهارات تحوّل مجلداً فارغاً إلى خزنة Obsidian منظمة.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "direito",
+      "title": "مهارات للقانون",
+      "items": [
+        {
+          "name": "brasil-legal-skills",
+          "url": "https://github.com/AlissonSantos1/brasil-legal-skills",
+          "link": "https://go.mymarketing.click/ccbr-brasil-legal-skills",
+          "description": "IRPF موجّه، وفسخ عقد CLT، وCLT أو PJ، وSimples Nacional والتقاعد.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "jusmanizer",
+          "url": "https://github.com/brunoflma/jusmanizer",
+          "link": "https://go.mymarketing.click/ccbr-jusmanizer",
+          "description": "مراجعة للأسلوب القانوني بالبرتغالية، مع 33 نمطاً وأمثلة.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "leis-mcp",
+          "url": "https://github.com/mazulo/leis-mcp",
+          "link": "https://go.mymarketing.click/ccbr-leis-mcp",
+          "description": "خادم MCP للبحث عن التشريعات البرازيلية والاستشهاد بها.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "skills-datajud-djen",
+          "url": "https://github.com/rvsanches/skills-datajud-djen",
+          "link": "https://go.mymarketing.click/ccbr-skills-datajud-djen",
+          "description": "مهارات حول واجهات APIs العامة لـ CNJ وDataJud وDJEN.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "labdados-skills",
+          "url": "https://github.com/lab-dados/labdados-skills",
+          "link": "https://go.mymarketing.click/ccbr-labdados-skills",
+          "description": "سوق لمهارات البحث التجريبي في القانون في البرازيل.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "escrita-e-pesquisa",
+      "title": "الكتابة والبحث",
+      "items": [
+        {
+          "name": "pesquisador-br-skill",
+          "url": "https://github.com/DevAlissu/pesquisador-br-skill",
+          "link": "https://go.mymarketing.click/ccbr-pesquisador-br-skill",
+          "description": "بحث أكاديمي مع ABNT وQualis CAPES وLattes وSciELO وBDTD.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "portugues-tecnico-controlado",
+          "url": "https://github.com/kayquer/portugues-tecnico-controlado",
+          "link": "https://go.mymarketing.click/ccbr-portugues-tecnico-controlado",
+          "description": "لغة مضبوطة بالبرتغالية البرازيلية، مستوحاة من ASD-STE100.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "marketing-copy-conteudo",
+          "url": "https://github.com/ricneves-ai/marketing-copy-conteudo",
+          "link": "https://go.mymarketing.click/ccbr-marketing-copy-conteudo",
+          "description": "153 مهارة في التسويق والنصوص الإعلانية والمحتوى بالبرتغالية.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "video-e-design",
+      "title": "الفيديو والحركة والمواقع",
+      "items": [
+        {
+          "name": "ai-motion-library",
+          "url": "https://github.com/apenasdouglas/ai-motion-library",
+          "link": "https://go.mymarketing.click/ccbr-ai-motion-library",
+          "description": "24 تأثير حركة باسمه بالبرتغالية والعبارة التي تطلبها من الذكاء الاصطناعي.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-video",
+          "url": "https://github.com/Felpborges/claude-video",
+          "link": "https://go.mymarketing.click/ccbr-claude-video",
+          "description": "رسوم متحركة (Motion graphics) في Claude Code، بالبرتغالية.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pipeline-de-sites",
+          "url": "https://github.com/Felpborges/pipeline-de-sites",
+          "link": "https://go.mymarketing.click/ccbr-pipeline-de-sites",
+          "description": "مهارات تنشئ وتطبق صور وفيديوهات موقع ما.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "editing-gameplay-montages",
+          "url": "https://github.com/gustavomenani/editing-gameplay-montages",
+          "link": "https://go.mymarketing.click/ccbr-editing-gameplay-montages",
+          "description": "يحوّل مقاطع اللعب وأغنية إلى فيديو مُونتاج على إيقاع الموسيقى.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "أدوات محيطة",
+      "items": [
+        {
+          "name": "claudept2en",
+          "url": "https://github.com/Senhordim/claudept2en",
+          "link": "https://go.mymarketing.click/ccbr-claudept2en",
+          "description": "إضافة لـ VS Code تترجم إلى الإنجليزية الطلبات المكتوبة بالبرتغالية في Claude Code.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sankhya Ajuda MCP",
+          "url": "https://github.com/DevSkillsIT/Skills-MCP-Sankhya-Ajuda",
+          "link": "https://go.mymarketing.click/ccbr-sankhya-ajuda-mcp",
+          "description": "خادم MCP لقواعد المساعدة العامة لنظام ERP من Sankhya.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "قوائم أخرى",
+      "items": [
+        {
+          "name": "awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "link": "https://go.mymarketing.click/ccbr-awesome-claude-code",
+          "description": "القائمة العالمية للأوامر والملفات وسير العمل الخاصة بـ Claude Code، باللغة الإنجليزية.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome MCP Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+          "link": "https://go.mymarketing.click/ccbr-awesome-mcp-brasil",
+          "description": "خوادم MCP لخدمات برازيلية.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "slug": "awesome-claude-code-br",
+  "language": "ko",
+  "title": "Awesome Claude Code BR",
+  "description": "Claude Code 한국어 자료: 문서, 강의, skills, 규칙, plugins, 브라질에서 만든 MCP 서버.",
+  "updated": "2026-11-10",
+  "categories": [
+    {
+      "id": "oficial",
+      "title": "공식",
+      "items": [
+        {
+          "name": "Documentação do Claude Code em português",
+          "url": "https://code.claude.com/docs/pt/overview",
+          "link": "https://go.mymarketing.click/ccbr-documentacao-do-claude-code-em-port",
+          "description": "공식 문서의 번역본.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude Code no GitHub",
+          "url": "https://github.com/anthropics/claude-code",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-no-github",
+          "description": "이슈와 릴리스 노트가 있는 공식 저장소.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Skills da Anthropic",
+          "url": "https://github.com/anthropics/skills",
+          "link": "https://go.mymarketing.click/ccbr-skills-da-anthropic",
+          "description": "Anthropic이 공개한 예제 스킬과 문서 스킬.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Plugins oficiais",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "link": "https://go.mymarketing.click/ccbr-plugins-oficiais",
+          "description": "Anthropic이 관리하는 플러그인 디렉터리.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Claude Code Action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-action",
+          "description": "pull request와 issue를 위한 GitHub Actions의 Claude Code.",
+          "tags": [
+            "oficial",
+            "codigo-aberto"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Anthropic Academy",
+          "url": "https://academy.claude.com/",
+          "link": "https://go.mymarketing.click/ccbr-anthropic-academy",
+          "description": "Anthropic의 무료 강의, Claude Code 강의 포함.",
+          "tags": [
+            "oficial",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "aprender",
+      "title": "포르투갈어로 배우기",
+      "items": [
+        {
+          "name": "claude-course",
+          "url": "https://github.com/rafael-agilize/claude-course",
+          "link": "https://go.mymarketing.click/ccbr-claude-course",
+          "description": "포르투갈어로 된 대화형 Claude Code 강의, 실습 위주.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-melhores-skills",
+          "url": "https://github.com/aliborhothamud/claude-melhores-skills",
+          "link": "https://go.mymarketing.click/ccbr-claude-melhores-skills",
+          "description": "무엇을 설치할지와 이유를 정리한 포르투갈어 스킬 큐레이션.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Spec-Driven Development",
+          "url": "https://github.com/felipefontoura/spec-driven-development-book",
+          "link": "https://go.mymarketing.click/ccbr-spec-driven-development",
+          "description": "AI 에이전트로 소프트웨어를 만드는 방법을 명세부터 다룬 오픈 북.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Construir com IA",
+          "url": "https://ciromaciel.click/books/construir-com-ia",
+          "link": "https://go.mymarketing.click/ccbr-construir-com-ia",
+          "description": "O Novo Básico 시리즈 10권: 프로토타입에서 로그인, 데이터, 결제가 있는 실제 시스템까지.",
+          "tags": [
+            "pago"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "regras-e-stacks",
+      "title": "규칙, 스택, 메모리",
+      "items": [
+        {
+          "name": "CCM Stack",
+          "url": "https://github.com/ciro-maciel/ccm-stack",
+          "link": "https://go.mymarketing.click/ccbr-ccm-stack",
+          "description": "원칙, 알려진 실수를 막는 hook, 스킬, 음성을 담은 플러그인. 사용자별 설정 가능.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Regras para o CLAUDE.md",
+          "url": "https://ciromaciel.click/rules",
+          "link": "https://go.mymarketing.click/ccbr-regras-para-o-claude-md",
+          "description": "실수에서 나온 규칙들, 에이전트의 CLAUDE.md에 바로 쓸 수 있음.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Agentes com cargo",
+          "url": "https://ciromaciel.click/agents",
+          "link": "https://go.mymarketing.click/ccbr-agentes-com-cargo",
+          "description": "직책이 있는 에이전트, 프로젝트에 바로 넣어 쓸 수 있음.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Pedidos prontos",
+          "url": "https://ciromaciel.click/prompts",
+          "link": "https://go.mymarketing.click/ccbr-pedidos-prontos",
+          "description": "AI에 바로 붙여넣는 프롬프트, 각각 테스트가 함께 있음.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": true,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-code-memory-setup",
+          "url": "https://github.com/lucasrosati/claude-code-memory-setup",
+          "link": "https://go.mymarketing.click/ccbr-claude-code-memory-setup",
+          "description": "Obsidian과 Graphify를 쓰는 Claude Code 영구 메모리, 세션당 토큰 절약.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "cerebro-inevita",
+          "url": "https://github.com/gabrielzucco/cerebro-inevita",
+          "link": "https://go.mymarketing.click/ccbr-cerebro-inevita",
+          "description": "로컬 우선 방식의 비즈니스 세컨드 브레인, 이미 쓰는 에이전트에서 실행.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "obsidian-master-kit",
+          "url": "https://github.com/melgarafael/obsidian-master-kit",
+          "link": "https://go.mymarketing.click/ccbr-obsidian-master-kit",
+          "description": "빈 폴더를 정리된 Obsidian vault로 바꿔 주는 스킬.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "direito",
+      "title": "법률 스킬",
+      "items": [
+        {
+          "name": "brasil-legal-skills",
+          "url": "https://github.com/AlissonSantos1/brasil-legal-skills",
+          "link": "https://go.mymarketing.click/ccbr-brasil-legal-skills",
+          "description": "IRPF 안내, CLT 해지, CLT 또는 PJ, Simples Nacional, 은퇴.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "jusmanizer",
+          "url": "https://github.com/brunoflma/jusmanizer",
+          "link": "https://go.mymarketing.click/ccbr-jusmanizer",
+          "description": "33개 패턴과 예시를 갖춘 포르투갈어 법률 문체 검토.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "leis-mcp",
+          "url": "https://github.com/mazulo/leis-mcp",
+          "link": "https://go.mymarketing.click/ccbr-leis-mcp",
+          "description": "브라질 법령을 검색하고 인용하는 MCP 서버.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "skills-datajud-djen",
+          "url": "https://github.com/rvsanches/skills-datajud-djen",
+          "link": "https://go.mymarketing.click/ccbr-skills-datajud-djen",
+          "description": "CNJ, DataJud, DJEN 공개 API 관련 스킬.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "labdados-skills",
+          "url": "https://github.com/lab-dados/labdados-skills",
+          "link": "https://go.mymarketing.click/ccbr-labdados-skills",
+          "description": "브라질 법학 실증 연구를 위한 스킬 마켓플레이스.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "escrita-e-pesquisa",
+      "title": "글쓰기와 연구",
+      "items": [
+        {
+          "name": "pesquisador-br-skill",
+          "url": "https://github.com/DevAlissu/pesquisador-br-skill",
+          "link": "https://go.mymarketing.click/ccbr-pesquisador-br-skill",
+          "description": "ABNT, Qualis CAPES, Lattes, SciELO, BDTD를 활용한 학술 연구.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "portugues-tecnico-controlado",
+          "url": "https://github.com/kayquer/portugues-tecnico-controlado",
+          "link": "https://go.mymarketing.click/ccbr-portugues-tecnico-controlado",
+          "description": "ASD-STE100을 참고한 브라질 포르투갈어 통제 언어.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "marketing-copy-conteudo",
+          "url": "https://github.com/ricneves-ai/marketing-copy-conteudo",
+          "link": "https://go.mymarketing.click/ccbr-marketing-copy-conteudo",
+          "description": "마케팅, 카피, 콘텐츠 관련 포르투갈어 스킬 153개.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "video-e-design",
+      "title": "영상, 모션, 사이트",
+      "items": [
+        {
+          "name": "ai-motion-library",
+          "url": "https://github.com/apenasdouglas/ai-motion-library",
+          "link": "https://go.mymarketing.click/ccbr-ai-motion-library",
+          "description": "애니메이션 효과 24개, 포르투갈어 이름과 AI에 요청할 용어 포함.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "claude-video",
+          "url": "https://github.com/Felpborges/claude-video",
+          "link": "https://go.mymarketing.click/ccbr-claude-video",
+          "description": "Claude Code의 모션 그래픽, 포르투갈어.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "pipeline-de-sites",
+          "url": "https://github.com/Felpborges/pipeline-de-sites",
+          "link": "https://go.mymarketing.click/ccbr-pipeline-de-sites",
+          "description": "사이트의 이미지와 영상을 만들고 적용하는 스킬.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "editing-gameplay-montages",
+          "url": "https://github.com/gustavomenani/editing-gameplay-montages",
+          "link": "https://go.mymarketing.click/ccbr-editing-gameplay-montages",
+          "description": "게임 클립과 음악 하나를 리듬에 맞춰 편집된 영상으로 바꿔 줍니다.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "title": "주변 도구",
+      "items": [
+        {
+          "name": "claudept2en",
+          "url": "https://github.com/Senhordim/claudept2en",
+          "link": "https://go.mymarketing.click/ccbr-claudept2en",
+          "description": "VS Code 확장 프로그램으로, Claude Code에 포르투갈어로 입력한 요청을 영어로 번역해 줍니다.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Sankhya Ajuda MCP",
+          "url": "https://github.com/DevSkillsIT/Skills-MCP-Sankhya-Ajuda",
+          "link": "https://go.mymarketing.click/ccbr-sankhya-ajuda-mcp",
+          "description": "ERP Sankhya의 공개 도움말 자료를 위한 MCP 서버입니다.",
+          "tags": [
+            "codigo-aberto",
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "outras-listas",
+      "title": "다른 목록",
+      "items": [
+        {
+          "name": "awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "link": "https://go.mymarketing.click/ccbr-awesome-claude-code",
+          "description": "Claude Code를 위한 명령, 파일, 워크플로 전 세계 목록을 영어로 정리했습니다.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        },
+        {
+          "name": "Awesome MCP Brasil",
+          "url": "https://github.com/ciro-maciel/awesome-mcp-brasil",
+          "link": "https://go.mymarketing.click/ccbr-awesome-mcp-brasil",
+          "description": "브라질 서비스를 위한 MCP 서버 모음입니다.",
+          "tags": [
+            "gratis"
+          ],
+          "ours": false,
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}
